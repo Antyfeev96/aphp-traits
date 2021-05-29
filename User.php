@@ -1,6 +1,5 @@
 <?php
 declare(strict_types=1);
-echo 123;
 trait AppTrait {
   public static string $login1 = 'Mishka';
   public static string $password1 = '12345';
